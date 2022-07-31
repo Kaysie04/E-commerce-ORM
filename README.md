@@ -29,12 +29,13 @@ The appication requires Node.js, Express.js, mysql2, and Insomnia.</br>
 Type in the command-line ```npm start``` to start the application. </br>
  To seed the database type in the command-line ```npm run seed```.
  To start the server type in the command-line ```node server.js```.
+ Then open Insomnia and use the routes defined in the routes folder.
 
 ## Usage
 The application allows a user to create, read, update and delete categories, products and tags.
 
 ## Functionality of the Application
-Click [here]() for a demonstration video.
+Click [here](https://watch.screencastify.com/v/sMZbKjHVIKFyoxdpMg10) for a demonstration video.
 
 ## License
 MIT
